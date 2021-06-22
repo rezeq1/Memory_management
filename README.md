@@ -76,11 +76,13 @@ When the rest :
   • m - the size of the secondary memory
   
   • n - the size of the main memory
-  
+
+
 For example :
 
     ./MemoryManagement 1 intput.txt output(LRU).txt 100 50
-    
+
+
 ## Sample input and output files:
 Attached to the program is an input file for example "input.txt"  which contains the collection of commands for your memory management system.
 In addition, two output files are attached txt  which contain the output of the system according to
