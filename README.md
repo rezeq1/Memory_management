@@ -1,6 +1,7 @@
 # Memory management-
 
 The program implements a system that simulates a system for virtual memory management.
+![1](https://user-images.githubusercontent.com/57844508/122911209-b9f30f00-d35f-11eb-9cc4-d3ee0e46692e.png)
 
 
 In such like this system it is assumed that the amount of data the program needs while running is very large
@@ -79,7 +80,7 @@ When the rest :
 
 
 For example :
-
+    gcc -o MemoryManagement HW5.c
     ./MemoryManagement 1 intput.txt output(LRU).txt 100 50
 
 
