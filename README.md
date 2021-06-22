@@ -80,7 +80,9 @@ When the rest :
 
 
 For example :
+
     gcc -o MemoryManagement HW5.c
+    
     ./MemoryManagement 1 intput.txt output(LRU).txt 100 50
 
 
